@@ -18,6 +18,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         constraintLayout=(ConstraintLayout)findViewById(R.id.layout);
         constraintLayout.setOnClickListener(this);
     }
+    
+    //I am bored :))
 
     @Override
     public void onClick(View v) {
